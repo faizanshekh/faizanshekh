@@ -20,11 +20,19 @@ A technical assignment demonstrating an embeddable checkout with a TypeScript SD
 
 Payments are simulated; the project does not process real charges.
 
-### [Frontend Portfolio](https://github.com/faizanshekh/faizan-portfolio)
+### [Faizan Shaikh — Portfolio](https://github.com/faizanshekh/faizan-portfolio)
 
-My personal portfolio presenting my frontend experience, projects, and contact details.
+My portfolio presents my experience, projects, and contact details. The current site is built with Next.js, TypeScript, Tailwind CSS, MDX, and GSAP, with static export.
 
 [Visit the portfolio](https://faizanshaikh.vercel.app/)
+
+### [VideoTube Node.js Backend](https://github.com/faizanshekh/videotube-nodejs-backend)
+
+A learning project for a video-platform API using Node.js, Express, MongoDB, and Mongoose. It includes authentication and route modules for video, comments, likes, playlists, subscriptions, and tweets. Some controller actions remain incomplete.
+
+### [Redux Toolkit Todo](https://github.com/faizanshekh/redux-toolkit-todo)
+
+A small React task list using Redux Toolkit for adding and removing tasks, with a responsive dark interface. Tasks are held in memory and reset when the page reloads.
 
 ## Professional background
 
