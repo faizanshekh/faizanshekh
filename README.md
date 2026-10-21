@@ -1,170 +1,56 @@
-# Hi, I'm Faizan Shaikh 👋
+# Hi, I'm Faizan Shaikh
 
-### Software Engineer | Frontend Engineer | React.js | Next.js
+**Frontend Engineer · React.js · Next.js · TypeScript**
 
-I'm a Software Engineer with 2.5+ years of experience building responsive, scalable, and user-focused web applications.
+I'm based in Ahmedabad, India, with 2+ years of professional experience building responsive web interfaces, reusable components, and CMS-driven websites.
 
-I specialize in **React.js, Next.js, JavaScript, TypeScript, WordPress, PHP, and REST APIs**, with experience in responsive UI development, Headless CMS, performance optimization, and modern frontend architecture.
+[Portfolio](https://faizanshaikh.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faizan-shaikh-555169282/) · [Email](mailto:faizanshaikh2082@gmail.com)
 
-I enjoy solving problems, learning new technologies, and building practical products that deliver great user experiences.
+## Selected work
 
----
+### [Embedded Checkout SDK](https://github.com/faizanshekh/dodo-assignment)
 
-## 🚀 About Me
+A technical assignment demonstrating an embeddable checkout with a TypeScript SDK, a Shadow DOM modal, and a React + Vite checkout inside a cross-origin iframe.
 
-- 💻 Software Engineer focused on Frontend Development
-- ⚛️ Experienced with **React.js & Next.js**
-- 🧩 Experienced in building reusable and responsive UI components
-- 🎨 Convert **Figma designs into responsive, pixel-perfect interfaces**
-- 🔗 Experience integrating **REST APIs and third-party services**
-- 📝 Built **Headless CMS solutions using WordPress + Next.js**
-- 🔌 Built and published an **open-source WordPress plugin**
-- ⚡ Interested in web performance and scalable frontend architecture
-- 🐘 Backend experience with **PHP & MySQL**
-- 🤖 Interested in **AI-assisted and AI-driven software development**
-- 🌱 Currently improving my backend, system design, and full-stack development skills
+- READY/INIT handshake and validation of message origin, source window, and checkout ID.
+- Merchant callbacks, modal lifecycle management, and simulated success, decline, and retry flows.
+- Documented architecture decisions, setup instructions, test commands, and client-side limitations.
 
----
+[Try the merchant demo](https://dodo-demo-site-ashen.vercel.app/)
 
-## 🛠️ Tech Stack
+Payments are simulated; the project does not process real charges.
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Bootstrap
-- Tailwind CSS
-- jQuery
-- Responsive Web Design
+### [Frontend Portfolio](https://github.com/faizanshekh/faizan-portfolio)
 
-### Backend
-- PHP
-- Node.js
-- REST APIs
-- GraphQL
-- Authentication & Authorization
+My personal portfolio presenting my frontend experience, projects, and contact details.
 
-### Database
-- MySQL
-- MongoDB
+[Visit the portfolio](https://faizanshaikh.vercel.app/)
 
-### CMS & E-commerce
-- WordPress
-- WooCommerce
-- Headless CMS
+## Professional background
 
-### Tools & DevOps
-- Git
-- GitHub
-- Docker
-- Linux
-- NPM
-- Postman
+At **Regur Technology Solutions (July 2024–September 2026)**, I worked on production business and e-commerce applications. My contributions included:
 
-### AI & Development
-- ChatGPT
-- Codex
-- Gemini
-- Claude
-- AI-Assisted Development
-- Context Engineering
+- Translating Figma designs into responsive interfaces and building reusable components.
+- Building a headless WordPress website with Next.js App Router, TypeScript, and WPGraphQL, including ISR and dynamic metadata.
+- Improving frontend performance and evaluating results with Lighthouse.
+- Developing JavaScript data-extraction scripts, PHP feed-processing routines, and recommendation widgets for a client's SaaS personalization platform.
+- Contributing to WordPress plugins and publishing an open-source plugin.
 
----
+Previously, I was a **Frontend Developer Intern at Erience Solutions (November 2023–March 2024)**, working on responsive websites, admin-panel interfaces, and e-commerce components.
 
-## 💼 Experience
+## Skills
 
-### Software Engineer / Frontend Engineer
-**Regur Technology Solutions**
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, Redux, Bootstrap, Sass, jQuery |
+| CMS and integrations | WordPress, WooCommerce, WPGraphQL, REST APIs, PHP feed processing |
+| Tools | Git, GitHub, Vite, Postman, Chrome DevTools, Lighthouse, Vercel |
+| Fundamentals | Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Linux, Docker basics |
 
-- Developed production-ready web applications using React.js, Next.js, JavaScript, PHP, MySQL, and WordPress.
-- Built responsive and reusable UIs from Figma designs.
-- Integrated REST APIs and third-party services.
-- Developed Headless CMS solutions using WordPress and Next.js.
-- Implemented ISR for CMS-driven Next.js applications.
-- Built and published an open-source WordPress plugin.
-- Worked on custom WordPress websites and plugin development.
-- Focused on performance optimization, testing, Git workflows, and Agile development.
+## Current focus
 
-### Frontend Engineer
-**Erience Solutions**
+I'm strengthening my frontend testing and backend fundamentals, and exploring AI-enabled applications. I use AI-assisted development tools such as ChatGPT, Codex, and Claude in my workflow.
 
-- Developed responsive websites and web interfaces using HTML, CSS, JavaScript, and React.js.
-- Converted designs into responsive and reusable UI components.
-- Worked on frontend functionality, debugging, testing, and browser compatibility.
-- Collaborated on web solutions and followed modern frontend development practices.
+I'm open to **Frontend Engineer, React.js Developer, Next.js Developer, and Software Engineer – Frontend** opportunities, including relocation.
 
----
-
-## 📌 Featured Projects
-
-### 🌐 Portfolio
-Personal portfolio showcasing my development experience, projects, and skills.
-
-**Tech:** React / Next.js / JavaScript
-
-### 🧪 Website Responsiveness Testing Tool
-A web-based tool for testing website responsiveness across different screen sizes and devices.
-
-**Tech:** Next.js, TypeScript, PostgreSQL
-
-### 🤖 AI Chatbot
-An AI-powered chatbot application focused on modern conversational UI and AI integration.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS
-
-### 🎵 Music Player
-A responsive web-based music player with modern UI and interactive controls.
-
-**Tech:** HTML, CSS, JavaScript
-
-### 💱 Crypto Swap Interface
-A Uniswap-inspired cryptocurrency swap interface focused on responsive UI and frontend interactions.
-
-**Tech:** React.js, JavaScript
-
-### 🛒 E-commerce Applications
-Developed responsive e-commerce interfaces and contributed to custom WordPress/WooCommerce solutions.
-
-**Tech:** React.js, Next.js, WordPress, WooCommerce
-
----
-
-## 📚 Currently Learning
-
-- Advanced React.js & Next.js
-- TypeScript
-- Node.js & Backend Development
-- System Design
-- Database Design
-- Docker
-- AI-powered application development
-- Full-stack development
-
----
-
-## 🎯 Career Goals
-
-I'm currently looking for opportunities as a:
-
-- **Frontend Engineer**
-- **React.js Developer**
-- **Next.js Developer**
-- **Software Engineer**
-
-I'm particularly interested in working on challenging products, scalable applications, modern frontend architecture, and AI-driven software.
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Faizan Shaikh](https://www.linkedin.com/in/faizan-shaikh-555169282/)
-- 🌐 Portfolio: [faizanshaikh.vercel.app](https://faizanshaikh.vercel.app/)
-- 💻 GitHub: [Faizan Shaikh](https://github.com/faizanshekh)
-- 📧 Email: faizanshaikh2082@gmail.com
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
+If my work fits your team, [let's connect](https://www.linkedin.com/in/faizan-shaikh-555169282/).
