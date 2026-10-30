@@ -2,7 +2,7 @@
 
 **Frontend Engineer · React.js · Next.js · TypeScript**
 
-I'm based in Ahmedabad, India, with 2+ years of professional experience building responsive web interfaces, reusable components, and CMS-driven websites.
+I have 2+ years of professional experience building responsive web interfaces, reusable components, and CMS-driven websites.
 
 [Portfolio](https://faizanshaikh.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faizan-shaikh-555169282/) · [Email](mailto:faizanshaikh2082@gmail.com)
 
