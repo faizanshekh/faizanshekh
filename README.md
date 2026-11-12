@@ -6,20 +6,6 @@ I have 2+ years of professional experience building responsive web interfaces, r
 
 [Portfolio](https://faizanshaikh.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faizan-shaikh-555169282/) · [Email](mailto:faizanshaikh2082@gmail.com)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshekh&theme=dark&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanshekh&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Top Programming Languages" />
-
-</div>
-
----
-
 ## Selected work
 
 ### [Embedded Checkout SDK](https://github.com/faizanshekh/dodo-assignment)
@@ -90,3 +76,25 @@ I'm strengthening my frontend testing and backend fundamentals, and exploring AI
 I'm open to **Frontend Engineer, React.js Developer, Next.js Developer, and Software Engineer – Frontend** opportunities, including relocation.
 
 If my work fits your team, [let's connect](https://www.linkedin.com/in/faizan-shaikh-555169282/).
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshekh&theme=dark&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+
+
+## 💻 Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanshekh&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="100%" alt="Top Languages" />
+
+</div>
+
+
+</div>
+
+---
