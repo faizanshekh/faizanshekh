@@ -6,6 +6,20 @@ I have 2+ years of professional experience building responsive web interfaces, r
 
 [Portfolio](https://faizanshaikh.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faizan-shaikh-555169282/) · [Email](mailto:faizanshaikh2082@gmail.com)
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshekh&theme=dark&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanshekh&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Top Programming Languages" />
+
+</div>
+
+---
+
 ## Selected work
 
 ### [Embedded Checkout SDK](https://github.com/faizanshekh/dodo-assignment)
@@ -34,6 +48,8 @@ A learning project for a video-platform API using Node.js, Express, MongoDB, and
 
 A small React task list using Redux Toolkit for adding and removing tasks, with a responsive dark interface. Tasks are held in memory and reset when the page reloads.
 
+---
+
 ## Professional background
 
 At **Regur Technology Solutions (July 2024–September 2026)**, I worked on production business and e-commerce applications. My contributions included:
@@ -46,6 +62,8 @@ At **Regur Technology Solutions (July 2024–September 2026)**, I worked on prod
 
 Previously, I was a **Frontend Developer Intern at Erience Solutions (November 2023–March 2024)**, working on responsive websites, admin-panel interfaces, and e-commerce components.
 
+---
+
 ## Skills
 
 | Area | Technologies |
@@ -54,6 +72,16 @@ Previously, I was a **Frontend Developer Intern at Erience Solutions (November 2
 | CMS and integrations | WordPress, WooCommerce, WPGraphQL, REST APIs, PHP feed processing |
 | Tools | Git, GitHub, Vite, Postman, Chrome DevTools, Lighthouse, Vercel |
 | Fundamentals | Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Linux, Docker basics |
+
+### Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,bootstrap,sass,jquery,wordpress,php,nodejs,express,mysql,postgres,mongodb,linux,docker,git,github,vite,postman,figma&perline=12" alt="Technologies and Tools" />
+
+</div>
+
+---
 
 ## Current focus
 
