@@ -6,6 +6,27 @@ I have 2+ years of professional experience building responsive web interfaces, r
 
 [Portfolio](https://faizanshaikh.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/faizan-shaikh-555169282/) · [Email](mailto:faizanshaikh2082@gmail.com)
 
+---
+
+## Skills
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, Redux, Bootstrap, Sass, jQuery |
+| CMS and integrations | WordPress, WooCommerce, WPGraphQL, REST APIs, PHP feed processing |
+| Tools | Git, GitHub, Vite, Postman, Chrome DevTools, Lighthouse, Vercel |
+| Fundamentals | Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Linux, Docker basics |
+
+### Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,bootstrap,sass,jquery,wordpress,php,nodejs,express,mysql,postgres,mongodb,linux,docker,git,github,vite,postman,figma&perline=12" alt="Technologies and Tools" />
+
+</div>
+
+---
+
 ## Selected work
 
 ### [Embedded Checkout SDK](https://github.com/faizanshekh/dodo-assignment)
@@ -47,27 +68,6 @@ At **Regur Technology Solutions (July 2024–September 2026)**, I worked on prod
 - Contributing to WordPress plugins and publishing an open-source plugin.
 
 Previously, I was a **Frontend Developer Intern at Erience Solutions (November 2023–March 2024)**, working on responsive websites, admin-panel interfaces, and e-commerce components.
-
----
-
-## Skills
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, Redux, Bootstrap, Sass, jQuery |
-| CMS and integrations | WordPress, WooCommerce, WPGraphQL, REST APIs, PHP feed processing |
-| Tools | Git, GitHub, Vite, Postman, Chrome DevTools, Lighthouse, Vercel |
-| Fundamentals | Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Linux, Docker basics |
-
-### Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,bootstrap,sass,jquery,wordpress,php,nodejs,express,mysql,postgres,mongodb,linux,docker,git,github,vite,postman,figma&perline=12" alt="Technologies and Tools" />
-
-</div>
-
----
 
 ## Current focus
 
