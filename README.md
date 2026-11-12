@@ -89,9 +89,10 @@ If my work fits your team, [let's connect](https://www.linkedin.com/in/faizan-sh
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=faizanshekh&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="100%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=faizanshekh&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="160" />
 
 </div>
+
 
 
 ---
